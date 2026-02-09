@@ -1,6 +1,6 @@
 body {
   font-family: Arial;
-  background-color: #f4f4f4;
+  background-color: red;
   margin: 40px;
 }
 
@@ -15,4 +15,5 @@ nav a {
 nav a:hover {
   background: #555;
 }
+
 
